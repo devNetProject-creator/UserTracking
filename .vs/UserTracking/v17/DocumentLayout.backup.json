@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\Subashree Krishnan\\source\\repos\\UserTrack\\UserTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FE598E-C8E0-4E8B-88E6-AFC4B053D3F3}|UserTracking.UI\\UserTracking.UI.csproj|e:\\users\\subashree krishnan\\source\\repos\\usertrack\\usertracking\\usertracking.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97FE598E-C8E0-4E8B-88E6-AFC4B053D3F3}|UserTracking.UI\\UserTracking.UI.csproj|solutionrelative:usertracking.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Users\\Subashree Krishnan\\source\\repos\\UserTrack\\UserTracking\\UserTracking.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserTracking.UI\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Users\\Subashree Krishnan\\source\\repos\\UserTrack\\UserTracking\\UserTracking.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserTracking.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T20:52:55.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

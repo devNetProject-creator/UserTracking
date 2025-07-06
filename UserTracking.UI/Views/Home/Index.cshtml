@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Live Location Tracking";
+}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrj0YeimHuRQ3TmiO737VNbXbotbnUbAg"></script>
+<script src="~/js/tracking.js"></script>
+
+<h2>User Live Tracking</h2>
+<div id="map" style="height: 600px; width: 100%;"></div>
+
+<script>
+    var userId = 'user_' + Math.floor(Math.random() * 10000);
+</script>

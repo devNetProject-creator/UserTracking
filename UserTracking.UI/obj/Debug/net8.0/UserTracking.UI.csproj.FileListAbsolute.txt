@@ -1,0 +1,66 @@
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.staticwebassets.runtime.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.staticwebassets.endpoints.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.exe
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.deps.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.runtimeconfig.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.dll
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.pdb
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.AssemblyInfo.cs
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\scopedcss\bundle\UserTracking.UI.styles.css
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\scopedcss\projectbundle\UserTracking.UI.bundle.scp.css
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.dll
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\refint\UserTracking.UI.dll
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.pdb
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.genruntimeconfig.cache
+C:\Users\User\source\repos\UserTracking\UserTracking.UI\obj\Debug\net8.0\ref\UserTracking.UI.dll
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\appsettings.Development.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\appsettings.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.staticwebassets.runtime.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.staticwebassets.endpoints.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.exe
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.deps.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.runtimeconfig.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.dll
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\bin\Debug\net8.0\UserTracking.UI.pdb
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.AssemblyInfoInputs.cache
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.AssemblyInfo.cs
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.csproj.CoreCompileInputs.cache
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.RazorAssemblyInfo.cache
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.RazorAssemblyInfo.cs
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\scopedcss\bundle\UserTracking.UI.styles.css
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\scopedcss\projectbundle\UserTracking.UI.bundle.scp.css
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.dll
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\refint\UserTracking.UI.dll
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.pdb
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\UserTracking.UI.genruntimeconfig.cache
+E:\Users\Subashree Krishnan\source\repos\UserTrack\UserTracking\UserTracking.UI\obj\Debug\net8.0\ref\UserTracking.UI.dll
